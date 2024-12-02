@@ -1,0 +1,10 @@
+.lead__image{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 8px;
+    align-items: flex-start;
+}
