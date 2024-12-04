@@ -4,20 +4,3 @@
     justify-content: space-between;
     align-items: center;
 }
-
-@media screen and (max-width: 320px){
-    .header {
-        padding: 16px 16px 48px;
-    }
-    
-    .header__logo{
-        width: 142px;
-        height: 42px;
-    }
-
-    .header__lang-link{
-        font-size: 18px;
-        line-height: 20px;
-    }
-
-}
