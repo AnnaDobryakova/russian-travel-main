@@ -37,11 +37,11 @@
 @import url('../blocks/content/places/place/__link/__link.css');
 @import url('../blocks/content/places/place/__paragraphs/__paragraphs.css');
 @import url('../blocks/content/places/place/__paragraph/__paragraph.css');
-@import url('../blocks/content/cover/__title/__title.css');
-@import url('../blocks/content/cover/__subtitle/__subtitle.css');
-@import url('../blocks/content/cover/__image/__image.css');
-@import url('../blocks/content/cover/__overlay/__overlay.css');
-@import url('../blocks/content/cover/__link/__link.css');
+@import url('../blocks/content/cover/title/title.css');
+@import url('../blocks/content/cover/subtitle/subtitle.css');
+@import url('../blocks/content/cover/image/image.css');
+@import url('../blocks/content/cover/overlay/overlay.css');
+@import url('../blocks/content/cover/link/link.css');
     
 @import url('../blocks/footer/__links/__links.css');
 @import url('../blocks/footer/__link/__link.css');
