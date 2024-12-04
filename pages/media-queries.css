@@ -7,6 +7,10 @@
 
 @media screen and (max-width: 768px) {
 
+    .intro__text {
+        width: 100%;
+    }
+
     .place{
         grid-template-columns: 340px 1fr;
         gap: 48px 28px;
@@ -56,6 +60,7 @@
 
 @media screen and (max-width: 425px) {
 
+
     .header__logo {
         width: 142px;
         height: 42px;
@@ -89,17 +94,18 @@
     .intro__title {
         font-size: 32px;
         line-height: 35px;
-        /*width: 288px;*/
     }
 
     .intro__text {
         font-size: 16px;
         line-height: 163%;
+
     }
 
     .places {
         width: 90%;
         margin-bottom: 66px;
+        margin: 0;
     }
 
     .place {
