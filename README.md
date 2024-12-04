@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Проект: Путешествие по России
 
 ### Обзор
@@ -25,3 +26,6 @@
 =======
 # russian-travel-main
 >>>>>>> e6bb6512675fc083ff4fe0cd18803d62eb2efeb1
+=======
+# russian-travel-main
+>>>>>>> 24540da4d32e0f03f8ce5ef7ff4be2220c4e3694
