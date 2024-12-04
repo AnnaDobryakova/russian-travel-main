@@ -1,4 +1,4 @@
-@import url('/blocks/page/page.css');
+@import url('blocks/page/page.css');
 @import url('/vendor/normalize.css');
 @import url('/fonts/inter.css');
 
@@ -28,7 +28,7 @@
 @import url('/blocks/content/intro/__text/__text.css');
 @import url('/blocks/content/intro/__list/__list.css');
 @import url('/blocks/content/intro/__list-number/__list-number.css');
-@import url('/blocks/content/photo-grid/__item/__item.css');
+@import url('blocks/content/photo-grid/__item/__item.css');
 @import url('/blocks/content/places/place/place.css');
 @import url('/blocks/content/places/place/__title/__title.css');
 @import url('/blocks/content/places/place/__image/__image.css');
