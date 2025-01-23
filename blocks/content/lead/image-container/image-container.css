@@ -1,6 +1,7 @@
 .lead__image-container{
-  display: flex;
-  flex-direction: column;
-  position: relative;
-  text-align: left;
+  display: grid;
+  flex-direction: row;
+  align-items: right;
+  justify-items: flex-end;
+  z-index: 1;
 }
